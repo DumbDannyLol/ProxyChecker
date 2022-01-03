@@ -1,0 +1,3 @@
+Put in format like this
+127.0.0.1:8080
+(localhost used as example im not an idiot)
