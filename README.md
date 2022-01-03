@@ -1,14 +1,14 @@
 # ProxyChecker
 ProxyChecker is a tool that can be used to check millions of proxies in a short, medium or long amount of time.
 
-#Startup
+# Startup
 I am very proud at the fact that i was able to make the loading proxies so quick (i used a file with over 2 million proxies). it displays the amount on the main screen and the title bar.
 
 ![image](https://user-images.githubusercontent.com/60897810/147982719-f20b2ca0-f531-4101-9be8-1c97ef688220.png)
 
 ![image](https://user-images.githubusercontent.com/60897810/147982733-8ebaf324-2158-4597-a3f2-832dbdf5f425.png)
 
-#Decorative features
+# Decorative features
 Getting the elapsed time at the top took me **HOURS**. I could not figure out how to do it because I've never done something like it before. While learning to do that, I learned the basics of **threading** and how vital it is for stuff like this.
 
 ![image](https://user-images.githubusercontent.com/60897810/147983067-c1848907-7613-4203-8e4a-098360f7b78f.png)
@@ -16,7 +16,7 @@ Getting the elapsed time at the top took me **HOURS**. I could not figure out ho
 Although there are still a few bugs. In fact when I was writing this up with the pictures, I noticed a bug and went to fix that.
 If you notice anything else just comment it and i'll fix it sometime.
 
-#Working With ProxyChecker:
+# Working With ProxyChecker:
 
 Change directories to where you have the files stored.
 
@@ -54,19 +54,19 @@ At the top it should say the details on what the program is doing.
 ![image](https://user-images.githubusercontent.com/60897810/147984187-07c2a422-826c-4bb9-9486-d417b7a10ce9.png)
 
 
-#BugList
+# BugList
 The current known bugs are that the program doesn't add the working proxies to the result text file until after all of them are done, which is not suppose to be what happens.
 Another bug is that the title bar isnt working right for the main menu because I cant have two threads running on the same task.
 
 
-#Important!
+# Important!
 Make sure you download all the files and put them all in the same folder!
 
-#Thanks
+# Thanks
 Thanks to Lord-Coder#2749
 Thanks to FekSake#idkwhaturnumbersarecauseyougottermedagain
 
-#Made By DumbDannyLol
+# Made By DumbDannyLol
 Copyright dumbdanny 2022 ©
 dumbdanny is a branch of DumbDannyLol and cannot be used without strict permission.
 
