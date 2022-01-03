@@ -67,8 +67,8 @@ Thanks to Lord-Coder#2749
 Thanks to FekSake#idkwhaturnumbersarecauseyougottermedagain
 
 # Made By DumbDannyLol
-Copyright dumbdanny 2022 ©
-dumbdanny is a branch of DumbDannyLol and cannot be used without strict permission.
+Copyright Dumb Danny 2022 ©
+Dumb Danny is a branch of DumbDannyLol and cannot be used without strict permission.
 
 
 
